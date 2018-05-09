@@ -1,7 +1,7 @@
 # Личный проект «Пиксель хантер» [![Build status][travis-image]][travis-url]
 
 * Студент: [Павел Катков](https://up.htmlacademy.ru/ecmascript/4/user/113885).
-* Наставник: `Test2`.
+* Наставник: `Test22`.
 
 ---
 
